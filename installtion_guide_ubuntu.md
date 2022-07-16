@@ -46,6 +46,9 @@ for more details - https://tecadmin.net/install-oracle-java-11-on-ubuntu-16-04-x
  
 
 ## Jenkins installation in ubuntu 16.04
+
+link to install Jenkins in easy way
+https://www.knowledgehut.com/blog/devops/install-jenkins-ubuntu
  
  - wget https://updates.jenkins-ci.org/download/war/2.162/jenkins.war ( installs 2.162 version, if you want any other version to be installed visit https://updates.jenkins-ci.org/download/war/ download particular version )
  - java -jar jenkins.war ( default runs on 8080 port ) 
