@@ -89,6 +89,8 @@ https://www.knowledgehut.com/blog/devops/install-jenkins-ubuntu
    
  ## Docker installation in ubuntu 16.04
  
+ link to install Docker in easy way
+ https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu
  - sudo apt-get update
  - sudo apt-get install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
  - curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
